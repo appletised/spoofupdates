@@ -1,7 +1,7 @@
     {
       "versionCode": 2,
       "versionName": "1.1.0",
-      "downloadUrl": "",
-      "changelog": "• Added the auto updater\n• Fixed initial permission checks"
+      "downloadUrl": "https://github.com/appletised/spoofupdates/releases/download/v1.1.0/app-debug.apk",
+      "changelog": "• Added the auto updater\n• Fixed permissions bug"
     }
     
