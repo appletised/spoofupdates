@@ -1,7 +1,7 @@
     {
-      "versionCode": 7,
-      "versionName": "1.1.6",
+      "versionCode": 8,
+      "versionName": "1.1.7",
       "downloadUrl": "https://github.com/appletised/spoofupdates/releases/download/updates/gpsstick.apk",
-      "changelog": "• Added the auto updater\n• Fixed permissions bug\n• Root access required now"
+      "changelog": "• added new co ordinates to events tab for ampharos spots.\n• app will close itself, just open again"
     }
     
