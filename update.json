@@ -1,7 +1,8 @@
     {
-      "versionCode": 8,
-      "versionName": "1.1.7",
+      "versionCode": 9,
+      "versionName": "1.1.8",
       "downloadUrl": "https://github.com/appletised/spoofupdates/releases/download/updates/gpsstick.apk",
-      "changelog": "• added new co ordinates to events tab for ampharos spots.\n• app will close itself, just open again"
+      "changelog": "• big exploit fixed. update immediately. thank you pokemod dev"
+      "checksum": "C382F3B7D7D40EAA76F93CE80A3E32BD65E1AA51947A865CBBB9A77EEBA88B6C"
     }
     
