@@ -1,8 +1,8 @@
     {
-      "versionCode": 12,
-      "versionName": "1.2.0",
+      "versionCode": 13,
+      "versionName": "1.2.1",
       "downloadUrl": "https://github.com/appletised/spoofupdates/releases/download/updates/gpsstick.apk",
-      "changelog": "• big exploit fixed.\n• update immediately.\n• thank you pokemod developer",
-      "checksum": "F379C48FEF5C8EA8FAEC27AD6931D4D80530C5CBB2DF75F1C06A8FCA63A10C34"
+      "changelog": "• big exploit fixed.\n• update immediately.\n• thank you pokemod developer\n• re-added api key for auto walk. oops",
+      "checksum": "1E0A59C641C34D3A3CD25934C440C9699E335647547FE22EFEF65955727EF712"
     }
     
