@@ -1,8 +1,8 @@
     {
-      "versionCode": 17,
-      "versionName": "1.2.4",
+      "versionCode": 18,
+      "versionName": "1.2.6",
       "downloadUrl": "https://github.com/appletised/spoofupdates/releases/download/updates/gpsstick.apk",
-      "changelog": "• added co ordinates for arizona pikachu event",
-      "checksum": "0423020A87943E0E418E1182D8525B27908F9FB4BC47B5768C78C42C0FAB11A0"
+      "changelog": "• removed arizona co ordinates\n• added loop routes, extend routes and repeat routes",
+      "checksum": "FFBF327FC9B2999F51E215E12471AC6F0CD1C0F8FBAF60F8599519A491D17B26"
     }
     
