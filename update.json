@@ -1,8 +1,8 @@
     {
-      "versionCode": 21,
-      "versionName": "1.2.9",
+      "versionCode": 22,
+      "versionName": "1.3.0",
       "downloadUrl": "https://github.com/appletised/spoofupdates/releases/download/updates/gpsstick.apk",
-      "changelog": "• removed all old event co ordinates• added popular spots and special spots...",
-      "checksum": "B7A2F3801DA73234E7C520A8DFF4FB00B064C40F89B9AC8363923256BA10F0D4"
+      "changelog": "• added new events, jakarta indonesia and melbourne australia",
+      "checksum": "B7763706E5D59698DA303B519B6B4295C6D04F83735EBA72187135C972D0C3F5"
     }
     
