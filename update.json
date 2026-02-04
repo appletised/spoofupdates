@@ -1,8 +1,8 @@
     {
-      "versionCode": 23,
-      "versionName": "1.4.0",
+      "versionCode": 24,
+      "versionName": "3.0.0",
       "downloadUrl": "https://github.com/appletised/spoofupdates/releases/download/updates/gpsstick.apk",
-      "changelog": "• BIG UPDATE\n• Fixed many bugs\n• You can now teleport to co ordinates directly from discord.",
-      "checksum": "C5394B1BB238B4133EE1A161798AC3F5FD27267F729B5EAF902CA1E4B0885A6E"
+      "changelog": "• NEW UI\n• IV FEEDS (TELEPORT TO HUNDOS)",
+      "checksum": "31971BE410FB8BA6357BDD8B5B5D663AAC8BC71962FAD6E75E0C592B94607877"
     }
     
